@@ -1,0 +1,9 @@
+{
+    "name": {
+        "long": "MTA-STS (Technical)",
+        "short": "MTA-STS"
+    },
+    "web": {
+        "host": "mta-sts.ender.ing"
+    }
+}
